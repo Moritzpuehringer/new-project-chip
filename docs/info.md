@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+when pressing clock and 1 it hsould set 1 on the display
 ## How to test
 
-Explain how to use your project
-
+when pressing clock and 2 it hsould set 2 on the display
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
